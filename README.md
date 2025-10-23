@@ -46,7 +46,7 @@ Here are some of the things I’m currently working on:
 ## 📫 Contact Me
 
 📧 **Email:** (talhauetm@gmail.com)
-💼 **LinkedIn:** (https://linkedin.com/in//talha-burhan-6a1965360?)  
+💼 **LinkedIn:** (https://linkedin.com/in/talha-burhan-6a1965360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 🐙 **GitHub:** (https://github.com/creative-talha)
 
 ---
