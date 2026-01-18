@@ -1,61 +1,93 @@
-# 👋 Hi, I'm Talha!
+# 👋 Hi, I'm Talha Burhan
 
-Welcome to my **About Me** repository — a space where I share who I am, what I’m learning, and how I’m growing as a programmer.  
-I’m a **Computer Science student** who’s passionate about technology, logic building, and exploring how computers really work.
+Welcome to my **GitHub profile** 👨‍💻  
+I’m a **Computer Science undergraduate** passionate about programming fundamentals, logic building, and understanding how computers work at a low level.
 
----
-
-## 💻 What I’m Currently Doing
-
-- 🌱 Learning **C programming** — focusing on loops, arrays, functions, and logic.
-- 🧩 Solving small coding problems and pattern challenges.
-- 🐧 Exploring **Linux** and command-line tools.
-- 📚 Building the foundation for future learning in **C++** and **Python**.
+I strongly believe that **strong basics create strong developers**, and I’m currently focusing on building those foundations step by step.
 
 ---
 
-## 🧠 My Interests
+## 💻 What I’m Currently Learning & Doing
 
-- Programming and algorithmic thinking  
-- Problem-solving and logical reasoning  
-- System software and how computers process data  
-- Open-source tools and Linux environments  
-
----
-
-## 🏗️ My Projects
-
-Here are some of the things I’m currently working on:
-
-| Repository | Description |
-|-------------|-------------|
-| [C Practice Projects](https://github.com/creative-talha/c-practice-projects) | A collection of C programs — patterns, loops, arrays, and prime numbers |
-| More coming soon... | As I continue learning and building 🚀 |
+- 🌱 Learning **C Programming** (loops, arrays, functions, structures, file handling)
+- 🧠 Improving **problem-solving & logical thinking**
+- 🧩 Practicing coding problems and pattern-based challenges
+- 🐧 Exploring **Linux** and command-line tools
+- 📚 Preparing myself for **C++ and Python**
 
 ---
 
-## 🎯 My Goals
+## 🏗️ Featured Projects
 
-- Strengthen my fundamentals in C programming  
-- Learn advanced languages (C++, Python)  
-- Contribute to beginner-friendly open-source projects  
-- Apply my learning in real-world, logical problems  
+### 🔹 Banking Management System (C Language)
+📌 **Semester Project – BS Computer Science (1st Semester)**  
+
+🔗 Repository:  
+👉 https://github.com/creative-talha/BMS-Banking-Management-System
+
+**Description:**  
+A console-based Banking Management System developed in **C**, using **file handling** to store and manage user data persistently.
+
+**Key Features:**
+- Create new bank accounts  
+- Deposit & withdraw money  
+- View account details  
+- File-based data storage  
+- Menu-driven interface  
+
+**What I Learned:**
+- Modular programming in C  
+- File handling (`fopen`, `fread`, `fwrite`)  
+- Struct-based data management  
+- Writing clean and readable code  
 
 ---
 
-## 📫 Contact Me
+### 🔹 C Practice Programs
+🔗 Repository:  
+👉 https://github.com/creative-talha/c-practice-projects  
 
-📧 **Email:** (talhauetm@gmail.com)
-💼 **LinkedIn:** (https://linkedin.com/in/talha-burhan-6a1965360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-🐙 **GitHub:** (https://github.com/creative-talha)
+A collection of beginner-to-intermediate **C programs**, including:
+- Loops & patterns  
+- Arrays  
+- Prime numbers  
+- Logical problem-solving exercises  
+
+---
+
+## 🧠 Technical Interests
+
+- C & low-level programming  
+- Algorithms and logic building  
+- System-level understanding  
+- Linux & open-source tools  
+
+---
+
+## 🎯 Goals
+
+- Master **C programming fundamentals**
+- Learn **C++ and Python** for problem-solving & development
+- Build more **real-world projects**
+- Contribute to **beginner-friendly open-source projects**
+- Grow step by step into a skilled software engineer
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** talhauetm@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/talha-burhan-6a1965360  
+🐙 **GitHub:** https://github.com/creative-talha  
 
 ---
 
 ## ⚡ Fun Fact
 
-> I believe coding is not just about syntax — it’s about *thinking differently* and solving problems creatively.
+> I believe programming is not just about writing code —  
+> it’s about **thinking logically and solving problems creatively**.
 
 ---
 
 ⭐ *Thanks for visiting my profile!*  
-If you like my learning journey, feel free to follow me or check out my repositories.
+Feel free to explore my repositories and follow my learning journey 🚀
